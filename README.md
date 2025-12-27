@@ -1,5 +1,7 @@
 # Soccer Tactics Simulator
 
+🚀 **[Live Demo](https://kylemath.github.io/soccerSimV2Physics)** 🚀
+
 A web-based soccer tactics simulator for testing formations and strategies through automated play at scale.
 
 ## Project Overview
