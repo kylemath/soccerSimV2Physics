@@ -1,0 +1,11 @@
+{
+  "id": "soccerSimV2Physics",
+  "title": "SoccerSimV2Physics",
+  "oneLiner": "A simulator using real physics and players",
+  "demoUrl": "https://github.com/kylemath/soccerSimV2Physics",
+  "screenshot": "https://raw.githubusercontent.com/kylemath/soccerSimV2Physics/main/screenshot.png",
+  "kind": "project",
+  "categories": ["simulation", "soccer", "web"],
+  "tags": ["simulation", "soccer", "web"],
+  "status": "published"
+}
